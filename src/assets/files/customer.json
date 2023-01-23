@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "name": "Martin",
+      "state": "state 1",
+      "description": "the description"
+    },
+    {
+      "name": "Alejandro",
+      "state": "stateee2",
+      "description": "my desc"
+    },
+    {
+      "name": "Pepe",
+      "state": "foul",
+      "description": "real madrid"
+    }
+  ]
+}
